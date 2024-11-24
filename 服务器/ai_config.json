@@ -4,8 +4,8 @@
        
         {
             "url": "https://api.chatanywhere.tech/v1/chat/completions",
-            "key": "sk-ATXhpDsohKCPBxdGfLsHXFUf0Q8zDhNxUNjwQOvLWwOLoJMP",
-            "model": "gpt-3.5-turbo-ca"
+            "key": "sk-iYOb0yOal8UE11YhkXt4BjI4otOullPx0rWaUIc8MlmDqdqf",
+            "model": "gpt-3.5-turbo"
         }
     ]
 }
