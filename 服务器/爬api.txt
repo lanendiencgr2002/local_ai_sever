@@ -1,0 +1,45 @@
+{
+    "url": "https://m3.ckit.gold/v1/chat/completions",
+    "key": "hm3fqbJMOmioaWvL5bYsha4ujDgvv7is1Gg9J17vLrdLP9u2",
+    "model": ""
+}
+{
+    "url": "https://freeapi.aiiz.cc/v1/chat/completions",
+    "key": "TRtSpk6yasVFMpYQ6c7d1fC43a0948B282C5439927C837A2",
+    "model": ""
+}
+{
+    "url": "https://api.crond.dev/v1/chat/completions",
+    "key": "eklTW1kRAbhAvy22xaDLqFShvQOPkVqwVnPlrnjKp8I6TZEW",
+    "model": ""
+}
+{
+    "url": "https://api.aischat.xyz/v1/chat/completions",
+    "key": "1EvwHcJMi5fRb0NgZiyEGr2CBNckYtwGyP3fLpz3P31U7iIw",
+    "model": ""
+}
+{
+    "url": "https://api.yangtb2024.me/v1/chat/completions",
+    "key": "8zwCMXSd5QNxqbQuKvTayUY0rz3pyWKSsKjsoQw1zaHE6VJX",
+    "model": ""
+}
+{
+    "url": "https://api.jimsblog.us.kg/v1/chat/completions",
+    "key": "Izdcg74q7vaKBY5I9hJLkPJBVnroFDsC7oNSlj0dWTLdeeLa",
+    "model": ""
+}
+{
+    "url": "https://do.s1viv1s.win/v1/chat/completions",
+    "key": "0Hzp5WQEyEowIUlpnYtQfONFnpesbPtrevT8sgzJaCzjh5hm",
+    "model": ""
+}
+{
+    "url": "https://api.aigc369.com/v1/chat/completions",
+    "key": "b8HJpw2Xhkv9AlA4yIsO2ha2HuT5U64eWzYWmO2sa3p8ftPg",
+    "model": ""
+}
+{
+    "url": "https://demo.voapi.top/v1/chat/completions",
+    "key": "QpPIEX73Yzt5qsCOWNqjtP9Jk64prMwiZSpyUiyikY9xEHeS",
+    "model": ""
+}
