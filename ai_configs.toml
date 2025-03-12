@@ -1,0 +1,15 @@
+# AI服务配置列表
+[[ai]]
+url = "https://ark.cn-beijing.volces.com/api/v3/chat/completions"
+key = "003724cf-df07-4e03-99bb-d6505808da9b"
+model = "deepseek-v3-241226"
+
+[[ai]]
+url = "https://ark.cn-beijing.volces.com/api/v3/chat/completions"
+key = "003724cf-df07-4e03-99bb-d6505808da9b"
+model = "doubao-1-5-pro-32k-250115"
+
+[[ai]]
+url = "https://ark.cn-beijing.volces.com/api/v3/chat/completions"
+key = "003724cf-df07-4e03-99bb-d6505808da9b"
+model = "doubao-1-5-lite-32k-250115" 
